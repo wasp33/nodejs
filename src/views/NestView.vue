@@ -7,12 +7,12 @@
         </p>
         <RouterView />
     </div>
-    
+
 </template>
 <style>
 .nest-view {
     background-color: #971d1d;
     padding: 20px;
-    boder: 3px solid #2d1692;
+    border: 3px solid #2d1692;
 }
 </style>
