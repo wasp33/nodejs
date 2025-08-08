@@ -1,0 +1,1 @@
+import{_ as s,c as a,a as o,o as t}from"./index-BZOthagD.js";const n={},c={class:"sample"};function r(l,e){return t(),a("div",c,e[0]||(e[0]=[o("h1",null,"This is an sample page",-1)]))}const i=s(n,[["render",r]]);export{i as default};

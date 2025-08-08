@@ -1,0 +1,1 @@
+import{_ as s,c as n,a as o,b as r,r as a,o as c}from"./index-BZOthagD.js";const i={},l={class:"view"};function _(u,e){const t=a("RouterView");return c(),n("div",l,[e[0]||(e[0]=o("h1",null,"nest routing",-1)),e[1]||(e[1]=o("p",null," 每頁都會出現的文字 ",-1)),r(t)])}const p=s(i,[["render",_]]);export{p as default};
