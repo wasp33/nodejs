@@ -1,0 +1,1 @@
+import{_ as t,c as s,a,o as l}from"./index-DQB4d03w.js";const n={};function o(r,e){return l(),s("div",null,e[0]||(e[0]=[a("h1",null,"Nest Child Default View",-1)]))}const f=t(n,[["render",o]]);export{f as default};

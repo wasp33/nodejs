@@ -1,0 +1,1 @@
+import{_ as s,c as t,a as n,o}from"./index-DQB4d03w.js";const r={},c={class:"nest-view"};function a(i,e){return o(),t("div",c,e[0]||(e[0]=[n("h2",null,"nest child routing inner",-1)]))}const _=s(r,[["render",a]]);export{_ as default};

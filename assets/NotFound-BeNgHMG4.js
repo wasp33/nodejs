@@ -1,1 +1,0 @@
-import{e as o,k as t,c as s,o as n}from"./index-CBxRe8TD.js";const _={__name:"NotFound",setup(r){const e=t();return o(()=>{setTimeout(()=>{e.push("/")},300)}),(u,a)=>(n(),s("h1",null,"404"))}};export{_ as default};
