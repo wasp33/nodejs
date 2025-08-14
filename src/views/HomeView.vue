@@ -1,6 +1,8 @@
 <script setup>
 import TheWelcome from '../components/TheWelcome.vue'
-
+import indexedDB from '../utils/indexedDB'
+const airbnbDB = new indexedDB('airbnb')
+airbnbDB.openStore()
 </script>
 
 <template>
